@@ -1,43 +1,33 @@
 ---
 title: Maharshi Roy
 role: Senior Software Engineer
-avatar_filename: maharshi-roy-profile-picture.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpg
+bio: I'm passionate about finding solutions to real-world problems using Machine Learning & AI
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Federated Learning
+  - Deep Learning
+  - Color Science
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:strategist.roy@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/maharshi-roy/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/maharshiroy/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Adobe Inc.
+    url: https://www.adobe.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Tech in Software Engineering
+      institution: IIIT Allahabad
+      year: 2019
+    - course: B.Tech in Information Technology
+      institution: IIIT Allahabad
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false
