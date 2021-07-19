@@ -33,8 +33,8 @@ superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm a Senior Software Engineer working on the [Adobe Production Print Engine](https://www.adobe.com/in/products/pdfprintengine.html). I specialize in Color and Transparency handling. My responsibilities include design and implementation of new color workflows and features for ensuring greater color accuracy and high-fidelity color reproduction upon rasterization. I'm actively involved in developer support for major OEM customers like **HP, Scitex, FujiXerox, Ricoh** etc. Currently working on CxF-based color transformations for accurate color reproduction under various lighting conditons and substrate materials for textile-focused OEMs.\
+\
+I'm passionate about solving real-world problems using Machine Learning and AI. My focus always lies in bridging the gap between AI/ML and VR, Distributed Technology, Remote Sensing Satellite Imagery etc to develop applications solving real-world problems. I have been fortunate to work under the guidance of [Prof. Anupam Agarwal](https://scholar.google.co.in/citations?user=mVXjhhgAAAAJ&hl=en) and [Dr. Vijay Chaurasiya](https://scholar.google.co.in/citations?user=g_NjKDQAAAAJ&hl=en) (under whom I completed my masters thesis) during my college years.\
+\
+Outside my profession, I'm an avid fan of [anime](https://myanimelist.net/profile/strategist_roy), [reading](https://www.goodreads.com/user/show/18742741-maharshi-roy) & [gaming](https://steamcommunity.com/id/strategist_/). I like to play *Rainbow Six Siege* during my pastime.

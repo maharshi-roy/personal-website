@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Accomplishments'
 subtitle:
 
 # Date format
@@ -23,30 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+- date_start: "2019-07-18"
+  description: "**Winning product** amongst all campus hires for developing a decoupled (**C++ TCP** backend + **Electron/React** frontend) document search engine. Employed Ternary-Search-tree & Manacher's algorithm with Query optimization and support for regular/wildcard search."
+  organization: Adobe
+  organization_url: "https://www.adobe.com/"
+  title: C++ Bootcamp Competition
+- date_start: "2018-03-18"
+  description: "**Top 10** teams in Hack-in-the-North (2018) amongst 50 team participants."
+  organization: Hack-in-the-North
+  organization_url: "https://www.hackinthenorth.com/"
+  title: Hack in the North
+- date_start: "2017-03-30"
+  description: "Inducted into Dean's Merit List for being the **2nd** ranker for 5th semester & amongst **top 10** academically consistent students. Recieved **Merit Incentive** awards for batch topper over two consecutive semesters."
+  organization: IIIT-Allahabad
+  organization_url: "https://www.iiita.ac.in/"
+  title: Dean's Merit List
 
 design:
   columns: '2' 
