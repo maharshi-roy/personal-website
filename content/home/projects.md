@@ -29,10 +29,12 @@ content:
     tag: '*'
   - name: Machine Learning
     tag: Machine Learning
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Computer Vision
+    tag: Computer Vision
+  - name: IoT
+    tag: IoT
+  - name: Miscellaneous
+    tag: Random
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

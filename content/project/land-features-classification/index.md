@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Distributed Machine Learning on Consumer Devices"
-summary: "Master's Thesis Research on scoping out the feasibility of a platform for training Neural Networks over a network of consumer devices as a cost-efficient alternative to cloud-based industry solutions."
+title: "Land Features Classification & Monitoring from Dual-polarized RISAT-1 SAR Images"
+summary: "Developed a real-time classification pipeline to classification and monitoring of Land features from RISAT-1 SAR images. Pipeline comprises of GIS preprocessing, Denoising and Computer Vision as intermediate steps. Final Results are generated via an Ensemble of trained models"
 authors: []
-tags: ["Machine Learning"]
+tags: ["Machine Learning", "Computer Vision"]
 categories: []
-date: 2021-08-24T20:52:06+05:30
+date: 2021-08-24T20:10:45+05:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://drive.google.com/file/d/1QouAP052u1kowxbXz_C8SYMLMgy0aPpQ/view?usp=sharing"
+external_link: "https://drive.google.com/file/d/11fi19MNkxuPTEcP3gpDh-l1prBaKFyVN/view?usp=sharing"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

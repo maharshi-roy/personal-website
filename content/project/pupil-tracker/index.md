@@ -1,15 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Distributed Machine Learning on Consumer Devices"
-summary: "Master's Thesis Research on scoping out the feasibility of a platform for training Neural Networks over a network of consumer devices as a cost-efficient alternative to cloud-based industry solutions."
+title: "Prototype Model for Pupil Detection and its application in Medical Domain"
+summary: "Developed a hardware prototype composed of a camera-fitted spectacle capturing the pupil for efficient tracking. The novelty of 
+the device is its capability to function even in near-dark conditions due to IR imaging of an eye."
 authors: []
-tags: ["Machine Learning"]
+tags: ["Machine Learning", "Computer Vision", "IoT"]
 categories: []
-date: 2021-08-24T20:52:06+05:30
+date: 2021-08-24T20:30:32+05:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://drive.google.com/file/d/1QouAP052u1kowxbXz_C8SYMLMgy0aPpQ/view?usp=sharing"
+external_link: "https://drive.google.com/file/d/1Sjm2LSvXlLTLWpM_ooxT1Jace5HXWFlP/view?usp=sharing"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
