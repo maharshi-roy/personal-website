@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Land Features Classification & Monitoring from Dual-polarized RISAT-1 SAR Images"
-summary: "Developed a real-time classification pipeline to classification and monitoring of Land features from RISAT-1 SAR images. Pipeline comprises of GIS preprocessing, Denoising and Computer Vision as intermediate steps. Final Results are generated via an Ensemble of trained models"
+summary: "Developed a real-time classification pipeline to classification and monitoring of Land features from RISAT-1 SAR images. Pipeline comprises of GIS preprocessing, Denoising and Computer Vision as intermediate steps. Final Results are generated via an Ensemble of trained models."
 authors: []
 tags: ["Machine Learning", "Computer Vision"]
 categories: []

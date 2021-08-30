@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Container Loading"
-summary: ""
+title: "Hybrid Intelligence to Container Loading Problem"
+summary: "In this practical version of a 3-D container loading problem with the added challenge of handling multi-drop (destination) constraint, we provide a heuristic-based algorithm that gives better packing efficiency sujected to orientation and position constraints of the packages than conventional 3-D knapsack problems."
 authors: []
 tags: ["Random"]
 categories: []
 date: 2021-08-24T20:05:27+05:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://drive.google.com/file/d/1Oi1lm0RTQGmFnxSjXPghYZkjBSWmTLM1/view?usp=sharing"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
