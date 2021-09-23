@@ -23,7 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org/account/accomplishments/verify/X3B7X2UX6QBF
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/9XPFAPZ52KXT
+  date_start: "2021-09-08"
+  description: "Gained expertise in Tensorflow and developed Multi-layer NN and CNN for Computer Vision task (Fashion MNIST)"
+  organization: Coursera
+  organization_url: ""
+  title: Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/X3B7X2UX6QBF
   date_start: "2020-02-18"
   description: "Learnt about general ML algos, NN, Backpropagation & Deep Learning fundamentals"
   organization: Coursera

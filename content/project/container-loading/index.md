@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Hybrid Intelligence to Container Loading Problem"
+title: "Hybrid Intelligence Approach to Container Loading Problem"
 summary: "In this practical version of a 3-D container loading problem with the added challenge of handling multi-drop (destination) constraint, we provide a heuristic-based algorithm that gives better packing efficiency sujected to orientation and position constraints of the packages than conventional 3-D knapsack problems."
 authors: []
 tags: ["Random"]
