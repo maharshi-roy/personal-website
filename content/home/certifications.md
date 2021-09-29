@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/3KPA4MFWC7MD
+  date_start: "2021-09-08"
+  description: "Learned about various kinds of attention mechanisms (self/Multi-head/LSH etc.), Transformers and gained programming expertise with BERT, T5, Reformers to program Summarization, Machine Translation, Question-Answering & Chat-bot applications."
+  organization: Coursera
+  organization_url: ""
+  title: Natural Language Processing with Attention Models
+  url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/9XPFAPZ52KXT
   date_start: "2021-09-08"
   description: "Gained expertise in Tensorflow and developed Multi-layer NN and CNN for Computer Vision task (Fashion MNIST)"
