@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "(Trade with Ted) Voice-assisted Crypto Trader"
-summary: "Developed a voice-controlled automated Trading application employing Time Series Forecasting. Basic NLP, Speech Recognition and Manhattan LSTM have been used for semantic similarity matching of voice commands. Developed an indepedent blockchain-coin TedCoin for demonstration purposes."
+title: "DocuSearch (C++ Document Search Engine)"
+summary: "Developed a decoupled ElectronJS-C++ document search engine for Adobe Bootcamp Hackathon 2019 (Winning Solution). Employed Ternary-Search tree and KMP algorithm with support for regex/wildcard queries. Optimization and Caching of Search results in Redis."
 authors: []
-tags: ["Machine Learning"]
+tags: ["Software Engineering", "Random"]
 categories: []
 date: 2021-08-24T20:30:32+05:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.youtube.com/watch?v=mQnV-xp_O5c&ab_channel=MaharshiRoy"
+external_link: "https://www.youtube.com/watch?v=f2SWFQqy6VE&ab_channel=MaharshiRoy"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,10 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/maharshi-roy/Trade-with-Ted-HINT18"
+url_code: "https://github.com/maharshi-roy/Document-Search"
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=mQnV-xp_O5c&ab_channel=MaharshiRoy"
+url_video: "https://www.youtube.com/watch?v=f2SWFQqy6VE&ab_channel=MaharshiRoy"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

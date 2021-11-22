@@ -33,7 +33,7 @@ content:
     tag: Computer Vision
   - name: IoT
     tag: IoT
-  - name: Miscellaneous
+  - name: Algorithms
     tag: Random
 
 design:
