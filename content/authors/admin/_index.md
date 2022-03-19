@@ -29,8 +29,9 @@ education:
       institution: IIIT Allahabad
       year: 2019
 email: ""
-superuser: true
-highlight_name: false
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I'm a Senior Software Engineer working on the [Adobe Production Print Engine](https://www.adobe.com/in/products/pdfprintengine.html). I specialize in Color and Transparency handling. I actively engage with major OEM customers like **HP, Scitex, FujiXerox, Ricoh** etc to bring about newer workflows all the while ensuring greater color accuracy and high-fidelity color reproduction. I'm currently working on an independent product line targeted towards textile OEMs using spectral reflectance data of inks through [CxF](https://www.iso.org/standard/61503.html) to bring about accurate color reproduction under varying lighting conditions. Alongside work, I seek out opportunities for mentorship and have been involved in training of many campus joinees and lateral hires in our team. \
