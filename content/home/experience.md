@@ -22,16 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Software Engineer
+  - title: Software Development Engineer II (L5)
+    company: Amazon Lab126
+    company_url: 'http://lab126.com/'
+    company_logo: org-amazon
+    location: Pune
+    date_start: '2022-03-14'
+    date_end: ''
+    description: |2-
+
+  - title: Software Development Engineer II (P20)
     company: Adobe Inc.
-    company_url: 'https://www.adobe.com/'
+    company_url: 'https://www.adobe.com/in/products/pdfprintengine.html/'
     company_logo: org-adobe
     location: Noida
     date_start: '2019-07-15'
-    date_end: ''
+    date_end: '2022-03-10'
     description: |2-   
-        * Working on CxF and conversion of Spectral data of inks to Colorimetric (CIELAB) values for textile-OEMs.
-        * Working on Color & Transparency workflows. Developed several features enhancing color accuracy. Engaged in developer support for **HP, FujiXerox, Scitex, Screen**.
+        * Working on CxF (ISO-17972) and conversion of Spectral data of inks to Colorimetric (CIE-LAB) values.
+        * Working on Color & Transparency workflows. Developed several features enhancing color accuracy. Engaged in Xchange case investigation for multiple OEM partners ~ **HP, FujiXerox, Scitex, Screen**.
         * Enhanced Map-Gray-to-Black feature to reduce ink consumption by **66%** for Spot-black workflows.
         * Bug-fixing various Print-Quality issues in Marker, Font or Color-modules of the product.
         
