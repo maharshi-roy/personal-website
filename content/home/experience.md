@@ -39,8 +39,8 @@ experience:
     date_start: '2019-07-15'
     date_end: '2022-03-10'
     description: |2-   
-        * Working on CxF (ISO-17972) and conversion of Spectral data of inks to Colorimetric (CIE-LAB) values.
-        * Working on Color & Transparency workflows. Developed several features enhancing color accuracy. Engaged in Xchange case investigation for multiple OEM partners ~ **HP, FujiXerox, Scitex, Screen**.
+        * Worked on CxF (ISO-17972) and conversion of Spectral data of inks to Colorimetric (CIE-LAB) values.
+        * Worked on Color & Transparency workflows. Developed several features enhancing color accuracy. Engaged in Xchange case investigation for multiple OEM partners ~ **HP, FujiXerox, Scitex, Screen**.
         * Enhanced Map-Gray-to-Black feature to reduce ink consumption by **66%** for Spot-black workflows.
         * Bug-fixing various Print-Quality issues in Marker, Font or Color-modules of the product.
         
@@ -52,7 +52,7 @@ experience:
     date_start: '2019-05-01'
     date_end: '2019-06-30'
     description: |2-   
-        * Boostrapped and Ideation of Placement-100 course for final-year students and professionals aiming for tech-jobs. [Course Link](https://practice.geeksforgeeks.org/courses/placement-100-2019?vb=183)
+        * Boostrapped and ideation of Placement-100 course for university graduates and professionals aiming for tech-jobs. [Course Link](https://practice.geeksforgeeks.org/courses/placement-100-2019?vb=183)
         * Involved in course-planning & problem setting (C/C++, Algo-DS, OS, Networking, DBMS etc.). Prepared tests, quizzes for evaluation
 
   - title: Front End Engineer (Intern)

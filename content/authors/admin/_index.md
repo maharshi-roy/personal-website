@@ -18,8 +18,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/maharshiroy/
 organizations:
-  - name: Adobe Inc.
-    url: https://www.adobe.com/
+  - name: Amazon Lab126
+    url: http://lab126.com/
 education:
   courses:
     - course: M.Tech in Software Engineering
